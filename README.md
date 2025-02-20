@@ -40,10 +40,15 @@ O programa irá pedir seu usuário e senha que são os seguintes:
 
 ![Screenshot_4](https://github.com/IuryMT/ProCong/assets/104461453/cb40b410-54b8-45d8-a7ad-006adf9b9677)
 
-Como o programa vem sem nenhuma informação, você deverá criar a sua congregação e inserir os publicadores da mesma. Depois você pode criar um novo usuário e senha seperado assim:
+O programa vem sem nenhuma informação, você deverá criar a sua congregação clicando em "Não". Siga as informações do [Manual_ProCong.pdf](https://github.com/user-attachments/files/18887134/Manual_ProCong.pdf) para criar a congregação da forma certa. Siga as instruções a partir do ponto 3 do Manual.
+
+![Screenshot_4 1](https://github.com/user-attachments/assets/9b568ba3-4e89-497e-b1df-ca65bf261b5f)
+
+Depois você pode criar um novo usuário e senha separado assim:
 
 ![Screenshot_5](https://github.com/IuryMT/ProCong/assets/104461453/c547c1be-6143-4de3-82ca-c73eecf6df2c)
 
+<!--
 Caso o programa venha com alguma congregação predefinida, basta mudar a mesma nessa opção:
 
 ![Screenshot_6](https://github.com/IuryMT/ProCong/assets/104461453/6aaa92b0-3e60-4f0d-9269-08ce7a014efd)
@@ -51,4 +56,4 @@ Caso o programa venha com alguma congregação predefinida, basta mudar a mesma 
 E alterar os dados para os da sua congregação.
 
 ![Screenshot_7](https://github.com/IuryMT/ProCong/assets/104461453/f2e827b8-f1c6-47a4-a3aa-0fcd17b1da15)
-
+-->

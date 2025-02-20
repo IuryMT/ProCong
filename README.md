@@ -30,7 +30,7 @@ Para realizar a instalação de ambos, só basta baixar os arquivos disponibiliz
 
 ![Screenshot_3](https://github.com/IuryMT/ProCong/assets/104461453/8255386b-e634-4d49-9b71-264026f0e0ab)
 
-8. Agora, para encerrar o passo a passo de configuração, basta clicar duas vezes ne atalho criado e o programa deverá ser aberto.
+8. Agora, para encerrar o passo a passo de configuração, basta clicar duas vezes no atalho criado e o programa deverá ser aberto.
 
 ## Passo a passo para acessar o programa
 
